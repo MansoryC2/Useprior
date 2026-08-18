@@ -1,0 +1,26 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Builds
+dist/
+build/
+.vs/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
